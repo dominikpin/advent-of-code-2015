@@ -16,5 +16,6 @@ int main() {
         }
     }
     std::cout << counter << std::endl;
-    input.close(); 
+    input.close();
+    return 0;
 }

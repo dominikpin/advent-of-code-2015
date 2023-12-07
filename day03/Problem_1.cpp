@@ -42,5 +42,6 @@ int main() {
     getline(input, text);
     int sum = calculateNumberOfHouses(text);
     std::cout << sum << std::endl;
-    input.close(); 
+    input.close();
+    return 0;
 }

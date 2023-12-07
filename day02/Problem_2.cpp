@@ -46,5 +46,6 @@ int main() {
         sum += calculateSurface(text);
     }
     std::cout << sum << std::endl;
-    input.close(); 
+    input.close();
+    return 0;
 }

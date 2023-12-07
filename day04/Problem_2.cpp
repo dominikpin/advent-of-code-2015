@@ -17,5 +17,6 @@ int main() {
         }
         i++;
     }
-    input.close(); 
+    input.close();
+    return 0;
 }

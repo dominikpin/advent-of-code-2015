@@ -19,5 +19,6 @@ int main() {
             break;
         }
     }
-    input.close(); 
+    input.close();
+    return 0;
 }

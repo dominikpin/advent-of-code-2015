@@ -42,4 +42,5 @@ int main() {
     }
     input.close();
     std::cout << counter << std::endl;
+    return 0;
 }
